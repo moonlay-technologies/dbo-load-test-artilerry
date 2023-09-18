@@ -1,0 +1,20 @@
+config:
+  target: "https://moonlay-api.dbo.dev"
+  phases:
+    - duration: 1
+      arrivalRate: 2
+    # - duration: 9
+    #   arrivalRate: 15
+   
+scenarios:
+  - flow:
+    - get: 
+        url: "/order-srv/delivery-orders"
+        headers:
+          X-CHANNEL: "web_manager"
+          Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
+        # capture:
+        #   json: "$.data.token"
+        #   as: "token"
+
+      
