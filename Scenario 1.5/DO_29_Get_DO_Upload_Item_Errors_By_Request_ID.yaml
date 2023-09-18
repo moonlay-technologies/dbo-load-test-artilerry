@@ -1,0 +1,293 @@
+# "https://moonlay-api.dbo.dev/delivery-orders/upload-histories-by-request-id/${csvData[i].request_id}/error-items"
+
+config:
+  target: "https://moonlay-api.dbo.dev"
+  phases:
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+    - duration: 1
+      arrivalRate: 150
+    - duration: 9
+      arrivalRate: 15
+scenarios:
+  - flow:
+      - get: 
+          url: "/order-srv/delivery-orders/upload-histories-by-request-id/3fb39f7a-9fe7-4e18-9fad-1a37c832cc0c/error-items"
+          headers:
+            Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
+
+           
