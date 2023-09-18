@@ -4,7 +4,7 @@ config:
     fields:
       - "id"
   target: "https://moonlay-api.dbo.dev"
-  processor: "./userContext.js"
+  processor: "./generateFaker.js"
   phases:
     - duration: 1
       arrivalRate: 2
