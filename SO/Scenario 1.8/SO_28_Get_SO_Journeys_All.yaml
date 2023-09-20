@@ -1,0 +1,289 @@
+config:
+  target: "https://moonlay-api.dbo.dev"
+  phases:
+   - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+scenarios:
+  - flow:
+      - get: 
+          url: "/order-srv/sales-orders/journeys"
+          headers:
+            Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
