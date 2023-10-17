@@ -3,8 +3,8 @@
 config:
   target: "https://moonlay-api.dbo.dev"
   phases:
-    - duration: 2
-      arrivalRate: 1
+    - duration: 1
+      arrivalRate: 150
     - duration: 9
       arrivalRate: 15
     - duration: 1
