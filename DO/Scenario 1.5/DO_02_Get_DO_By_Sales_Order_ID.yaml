@@ -8,7 +8,7 @@ config:
     - duration: 9
       arrivalRate: 15
     - duration: 1
-      arrivalRate: 1
+      arrivalRate: 150
     - duration: 9
       arrivalRate: 15
     - duration: 1
