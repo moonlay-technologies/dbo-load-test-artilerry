@@ -1,0 +1,11 @@
+config:
+  target: "https://moonlay-api.dbo.dev"
+  phases:
+   - duration: 10
+     arrivalRate: 220
+scenarios:
+  - flow:
+      - get: 
+          url: "/order-srv/sales-orders/journeys"
+          headers:
+            Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
