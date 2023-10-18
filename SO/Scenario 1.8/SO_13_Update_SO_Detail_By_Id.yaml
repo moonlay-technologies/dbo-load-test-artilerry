@@ -1,0 +1,301 @@
+config:
+   payload:
+    path: "data.csv"
+    fields:
+      - "so_id"
+        "so_details_id"
+  target: "https://moonlay-api.dbo.dev"
+  phases:
+     - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+    - duration: 1
+      arrivalRate: 220
+    - duration: 9
+      arrivalRate: 20
+scenarios:
+  - flow:
+      - put: 
+          url: "/order-srv/sales-orders/{{ so_id }}/details/{{ so_details_id }}" 
+          json:   so_detail_code: 992-4-20230405013751-985-C2EoU5ROy61
+                  order_status_id: 16
+                  reason: "Salah Input"
+          headers:
+            Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA==" 
+            
+            
+
+  
