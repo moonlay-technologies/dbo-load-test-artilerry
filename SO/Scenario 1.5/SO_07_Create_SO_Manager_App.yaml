@@ -287,7 +287,6 @@ config:
       arrivalRate: 150
     - duration: 9
       arrivalRate: 15
-
 scenarios:
   - flow:
       - function: "createRandomUser"
@@ -304,9 +303,9 @@ scenarios:
             visitation_id: 1
             salesman_id: 2039
             order_source_id: 1
-            so_date: "2023-10-18"
+            so_date: "2023-10-19"
             so_ref_code: "{{ uuid }}"
-            so_ref_date: "2023-10-18"
+            so_ref_date: "2023-10-19"
             total_amount: 10000000
             total_tonase: 1000
             g_long: -5.12341
