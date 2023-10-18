@@ -1,6 +1,11 @@
 # "https://moonlay-api.dbo.dev/order-srv/delivery-orders/retry-to-sync-kafka/${csvData[i].doEventLogId}"
 
 config:
+  payload:
+    path: "DOEventLogID.csv"
+    fields:
+      - "do_event_log_id"
+    order: "sequence"
   target: "https://moonlay-api.dbo.dev"
   phases:
     - duration: 1
@@ -286,7 +291,7 @@ config:
 scenarios:
   - flow:
       - get: 
-          url: "/order-srv/delivery-orders/retry-to-sync-kafka/644005f66c4163ae80b449f3"
+          url: "/order-srv/delivery-orders/retry-to-sync-kafka/{{ do_event_log_id }}"
           headers:
             Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
 
