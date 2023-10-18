@@ -286,7 +286,7 @@ config:
 scenarios:
   - flow:
       - get: 
-          url: "/order-srv/delivery-orders/retry-to-sync-kafka/643cb23d07ba72da5406db75"
+          url: "/order-srv/delivery-orders/retry-to-sync-kafka/644005f66c4163ae80b449f3"
           headers:
             Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
 
