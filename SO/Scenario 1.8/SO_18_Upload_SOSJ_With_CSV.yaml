@@ -285,7 +285,9 @@ scenarios:
   - flow:
       - post: 
           url: "/order-srv/upload-sosj"
-          json: file: "https://lambda-upload-srv.s3-ap-southeast-1.amazonaws.com/order-service/sales-orders/5d227d64-dbac-44d0-8b89-7ddec8647f4d.xlsx"
+          json: {
+    file: "https://lambda-upload-srv.s3-ap-southeast-1.amazonaws.com/order-service/sales-orders/5d227d64-dbac-44d0-8b89-7ddec8647f4d.xlsx"
+}
           headers:
             Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
 

@@ -284,6 +284,6 @@ config:
 scenarios:
   - flow:
       - get: 
-          url: "/order-srv/upload-histories/652df64bc3adaad555aae999"
+          url: "/order-srv/sales-orders/upload-histories/652df64bc3adaad555aae999"
           headers:
             Authorization: "Basic ZGJvLW9yZGVyLXNydjpkYm8tb3JkZXItc3J2LXBhc3N3ZA=="
