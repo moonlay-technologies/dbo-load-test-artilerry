@@ -1,11 +1,5 @@
 config:
-  payload:
-    path: "data.csv"
-    fields:
-      - "uuid"
-    order: "sequence"
   target: "https://moonlay-api.dbo.dev"
-  processor: "generateFaker.js"
   phases:
     - duration: 1
       arrivalRate: 150
@@ -289,7 +283,6 @@ config:
       arrivalRate: 15
 scenarios:
   - flow:
-      - function: "createRandomUser"
       - post:
           url: "/order-srv/sales-orders"
           headers:
@@ -303,9 +296,9 @@ scenarios:
             visitation_id: 1
             salesman_id: 2039
             order_source_id: 5
-            so_date: "2023-10-20"
-            so_ref_code: "{{ uuid }}"
-            so_ref_date: "2023-10-20"
+            so_date: "2023-10-24 "
+            so_ref_code: ""
+            so_ref_date: "2023-10-24"
             total_amount: 10000000
             total_tonase: 1000
             g_long: -5.12341
