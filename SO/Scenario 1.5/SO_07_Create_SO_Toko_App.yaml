@@ -296,9 +296,9 @@ scenarios:
             visitation_id: 1
             salesman_id: 2039
             order_source_id: 5
-            so_date: "2023-10-24 "
+            so_date: "2023-10-30"
             so_ref_code: ""
-            so_ref_date: "2023-10-24"
+            so_ref_date: "2023-10-30"
             total_amount: 10000000
             total_tonase: 1000
             g_long: -5.12341
